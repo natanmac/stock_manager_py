@@ -11,7 +11,7 @@ class App(customtkinter.CTk):
         self.resizable(False, False)
 
         #Campo de nome do produto
-        # self.stateName = customtkinter.StringVar()
+        self.stateName = customtkinter.StringVar()
         self.labelNameProduct = customtkinter.CTkLabel(self, text="Nome do produto: ", fg_color="transparent", anchor="w")
         self.labelNameProduct.grid(row=0, column=0, padx=5, pady=5, sticky="nsew", columnspan=2)
         self.entryNameProduct = customtkinter.CTkEntry(self, placeholder_text="nome", textvariable=self.stateName)
