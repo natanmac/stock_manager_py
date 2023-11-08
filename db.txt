@@ -1,0 +1,8 @@
+Nome, Quantidade, Setor, Código
+Parafuso, 120, Setor 2, 1234
+Porca, 200, Setor 1, 4321
+Alicate, 1, Setor 2, 4567
+Broca, 20, Setor 1, 5555
+Martelo, 1, Setor 3, 8888
+Lampada LED, 50, Setor 2, 9999
+Torneira, 42, Setor 2, 4747
